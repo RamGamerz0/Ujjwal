@@ -1,0 +1,5 @@
+{
+	"ip":"Deepak0823.aternos.me",
+	"port": "63398",
+	"name": "Ujjwal"
+}
